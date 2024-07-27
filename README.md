@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative mechatronics projects, open-source automation tools, and AI-driven robotics applications.
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/prashpera
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy working out in the gym and practicing MMA.
+- ⚡ Fun fact: I enjoy working out and practicing MMA.
 
 
 <h3 align="left">Languages and Tools:</h3>
